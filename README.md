@@ -5,7 +5,7 @@ This project was created for Infectious Disease Professionals LLC, and focuses o
 
 ## Skills Used
 - **Python**: Used for data manipulation, cleaning, and analysis. Libraries such as pandas, matplotlib, and seaborn were used to handle data structures and generate visualizations.
-- **SQL**: Used for querying and managing large datasets. 
+- **SQL**: Used sqlalchemy for querying and managing large datasets within Python. 
 - **Tableau**: Visualizations created in Tableau are used to present data insights in an intuitive and accessible manner. This includes dashboards that highlight trends and patterns effectively.
 
 ## Visualizations
